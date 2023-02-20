@@ -29,7 +29,7 @@ DarkRP.RegisterSentences("kbrp_admin", "fr", {
 	["noSelectRatingBeforeConfirm"] = "Veuillez sélectionner une note avant de confirmer",
 	["invalidRatingCommentLength"] = "Nous avons besoin d'un commentaire constructif pour améliorer notre équipe (+20 caractères) !",
 	["createTicketPanelTitle"] = "Menu des Tickets",
-	["ticketDescriptionPlaceholder"] = "Veuillez faire une description complète de votre demande : Exemple Kobralost ma freekill dans la banque il était armé d'une AK47 j'ai perdu mon kevlar lourd et mon écharpe !",
+	["ticketDescriptionPlaceholder"] = "Veuillez faire une description complète de votre demande : Exemple Kobralost m'a freekill dans la banque il était armé d'une AK47 j'ai perdu mon kevlar lourd et mon écharpe !",
 	["noTicketDescription"] = "Veuillez entrer une description pour votre ticket !",
 	["noTicketReason"] = "Veuillez sélectionner un motif pour votre ticket !",
 	["mutedInteractionTitle"] = "Vous êtes Mute",
