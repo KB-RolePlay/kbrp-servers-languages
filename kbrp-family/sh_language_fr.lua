@@ -20,7 +20,7 @@ DarkRP.RegisterSentences("kbrp_family", "fr", {
 	["selectFamilyColor"] = "Choisissez la couleur de votre famille",
 	["familyName"] = " Nom de la famille",
 	["editInformationsPriceDescription"] = "Si vous voulez changer ces informations une fois sauvegardées cette action vous sera facturée %s",
-	["createFamilyDisclaimer"] = ". Votre famille peut être supprimée à tout moments en cas de non respect des règles ou de problèmes de paiement. L'équipe de Kobralost Roleplay vous remercie et vous souhaite un bon jeu.",
+	["createFamilyDisclaimer"] = ". Votre famille peut être supprimée à tous moments en cas de non-respect des règles ou de problèmes de paiement. L'équipe de Kobralost Roleplay vous remercie et vous souhaite un bon jeu.",
 	["editFamilyAction"] = "MODIFIER POUR %s",
 	["createFamilyAction"] = "CREER MA FAMILLE",
 	["confirmEdit"] = "Confirmer la modification ?",
