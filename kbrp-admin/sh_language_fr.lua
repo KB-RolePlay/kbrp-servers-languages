@@ -19,7 +19,7 @@ DarkRP.RegisterSentences("kbrp_admin", "fr", {
 	["deleteVehicleContextMenuAction"] = "Supprimer véhicules",
 	["reviveContextMenuAction"] = "Réanimer",
 	["repairVehicleContextMenuAction"] = "Réparer",
-	["deleteVehicleContextMenuAction"] = "Supprimer Véhicule",
+	["deleteVehicleContextMenuAction"] = "Supprimer",
 	["userTicketHeader"] = "Ticket en cours",
 	["ticketsListHeader"] = "Tickets en cours (%s)",
 	["deleteTicketButton"] = "Supprimer le ticket",
