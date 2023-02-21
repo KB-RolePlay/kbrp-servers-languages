@@ -60,7 +60,7 @@ DarkRP.RegisterSentences("kbrp_bunker", "fr", {
 	["welcomeInYourBunker"] = "BIENVENUE DANS VOTRE BUNKER",
 	["welcomeInYourBunkerDescription"] = "VOS EMPLOYES ONT HATE DE VOUS REVOIR",
 	["inBunkerInstruction"] = "Votre bunker",
-	["inBunkerDescription"] = "Retrouvez les infos sur votre bunker dans l'ordinateur",
+	["inBunkerDescription"] = "Retrouvez les infos de votre bunker dans l'ordinateur",
 	["enterInYourBunkerTitle"] = "Entrer dans votre %s",
 	["enterInYourBunkerDescription"] = "Appuyez sur E pour entrer dans votre bunker !",
 	["buyBunkerTitle"] = "ACHAT DE BUNKER",

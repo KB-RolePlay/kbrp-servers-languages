@@ -82,7 +82,7 @@ DarkRP.RegisterSentences("kbrp_managejob", "fr", {
 	["swatClothesAdded"] = "Vous venez d'enfiler votre tenue de RAID !",
 	["dateFormat"] = "%d/%m/%Y",
 	["points"] = "points",
-	["punishments"] = "punishments",
+	["punishments"] = "sanctions",
 	["addPointsCooldown"] = "%s doit encore attendre %ss avant de recevoir à nouveau une récompense",
 	["removePointsCooldown"] = "%s doit encore attendre %ss avant de se refaire retirer des points"
 })
