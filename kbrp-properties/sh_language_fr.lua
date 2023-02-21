@@ -9,6 +9,6 @@ DarkRP.RegisterSentences("kbrp_properties", "fr", {
 	["defineZone"] = "Définissez la zone",
 	["selectFirstPoint"] = "Veuillez sélectionner\nle premier point",
 	["selectSecondPoint"] = "Veuillez sélectionner\nle second point",
-	["step"] = "Étape ",
+	["step"] = "Étape %s",
 	["configureProperty"] = "Configurer les propriétés"
 })
