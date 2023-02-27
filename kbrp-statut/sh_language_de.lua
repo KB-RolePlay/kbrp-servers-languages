@@ -1,0 +1,23 @@
+DarkRP.RegisterSentences("kbrp_statut", "de", {
+    ["serverInformationEmbedTitle"] = "Serverinformationen",
+	["serverNameFieldName"] = "🦉 Name des Servers",
+	["onlineServerFFieldName"] = "🟢 Status des Servers",
+	["offlineServerFieldName"] = "🔴 Status des Servers",
+	["onlineServerFieldDescription"] = "Online",
+	["offlineServerFieldDescription"] = "Offline",
+	["serverMapFieldName"] = "🏠 Aktuelle Map",
+	["serverCollectionFieldName"] = "📚 Server-Kollektion",
+	["serverCollectionFieldDescription"] = "[Klicke hier](https://kobralost-rp.de/addons)",
+	["joinServerFieldName"] = "🌐 Server beitreten",
+	["joinServerFieldDescription"] = "steam://connect/play.kobralost-rp.de",
+	["onlineSttaffPrefix"] = "🟢",
+	["staffNotInServicePrefix"] = "🟠",
+	["playersAmountFieldName"] = "🧑‍🤝‍🧑 Spieleranzahl",
+	["staffAmountFieldName"] = "💎 Team im Dienst",
+	["lackOfStaffText"] = "(**Es fehlen %s Teammitglieder**)",
+	["staffStatusEmbedFieldName"] = "👁️ Status des Teams",
+	["ticketsInQueueFieldName"] = "📨 Ausstehende Tickets",
+	["playersInQueueFieldName"] = "🙋 Warteschlange",
+	["playersInQueueFieldDescription"] = "%s wartende Spieler",
+	["playerQueueDisabled"] = "Deaktiviert"
+})

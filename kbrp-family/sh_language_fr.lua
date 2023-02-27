@@ -88,6 +88,5 @@ DarkRP.RegisterSentences("kbrp_family", "fr", {
 	["needSelectVehicle"] = "Vous devez choisir un véhicule de PDG !",
 	["needSelectFamilyColor"] = "Vous devez choisir la couleur de votre famille",
 	["needSelectWeapon"] = "Vous devez choisir l'arme du PDG !",
-	["vehiclesListTitle"] = "Véhicules PDG famille",
-	["notInFamily"] = "Vous n'êtes pas dans cette famille !"
+	["vehiclesListTitle"] = "Véhicules PDG famille"
 })

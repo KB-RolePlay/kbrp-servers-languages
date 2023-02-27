@@ -25,7 +25,6 @@ DarkRP.RegisterSentences("kbrp_hunter", "fr", {
 	["missionRefused"] = "Vous venez de refuser une mission !",
 	["needToBeInServiceToTakeMission"] = "Vous devez être en service pour prendre une mission !",
 	["alreadyHasMission"] = "Vous avez déjà pris une mission !",
-	["invalidMission"] = "Vous ne possédez pas cette mission !",
 	["missionAlreadyTaken"] = "Vous avez déjà pris cette mission !",
 	["noAvailableZones"] = "Aucune zone n'est disponible, veuillez réessayer plus tard !",
 	["missionTaken"] = "Vous venez de prendre une mission !",

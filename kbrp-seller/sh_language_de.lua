@@ -1,0 +1,23 @@
+DarkRP.RegisterSentences("kbrp_seller", "de", {
+    ["npcMisconfigured"] = "Der NPC ist nicht konfiguriert! Bitte kontaktiere einen Administrator!",
+	["p99"] = "P99",
+	["fiveSeven"] = "Five Seven",
+	["mr96"] = "MR96",
+	["desertEagle"] = "Desert Eagle",
+	["lockpick"] = "Brechstange",
+	["keypadCracker"] = "Keypad Cracker",
+	["jewelleryPhone"] = "Telefon",
+	["jewelleryHammer"] = "Hammer",
+	["bag"] = "Tasche",
+	["lightKevlar"] = "Leichte Kevlar",
+	["mediumKevlar"] = "Schwere Kevlar",
+	["npcTitle"] = "Verkäufer",
+	["alreadyGundealer"] = "Es gibt bereits einen Waffenhändler in der Stadt!",
+	["entityPrice"] = "Preis: %s",
+	["buyButton"] = "Kaufen",
+	["cantAfford"] = "Du hast nicht genug Geld um das zu kaufen!",
+	["errorOccured"] = "Es ist ein Fehler aufgetreten, bitte kontaktiere einen Administrator!",
+	["invalidItem"] = "Dieser Gegenstand wird nicht von einem Spieler verkauft, versuche keine Exploits!",
+	["npcTooFar"] = "Du bist zu weit vom NPC entfernt!",
+	["itemBought"] = "Du hast gerade ein %s für %s gekauft!"
+})

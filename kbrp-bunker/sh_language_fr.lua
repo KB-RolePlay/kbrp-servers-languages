@@ -89,7 +89,6 @@ DarkRP.RegisterSentences("kbrp_bunker", "fr", {
 	["cantUseItemInBunker"] = "Vous ne pouvez pas utiliser d'item dans le bunker !",
 	["positionRegistred"] = "Position enregistrée !",
 	["upgradeAlreadyBought"] = "Vous avez déjà acheté cette amélioration",
-	["notEnoughtMoney"] = "Vous n'avez pas assez d'argent pour faire ceci",
 	["upgradeBought"] = "Vous venez d'acheter l'amélioration %s pour %s",
 	["bunkerAlreadyBought"] = "Vous ne pouvez pas acheter ce bunker car vous le possédez déjà !",
 	["bunkerBought"] = "Vous venez d'acheter votre bunker pour %s",
