@@ -1,6 +1,6 @@
 DarkRP.RegisterSentences("kbrp_firefighter", "fr", {
-    ["depositedPlayerReward"] = "Vous venez de recevoir %s pour avoir déposer quelqu'un à l'hôpital !",
-	["cantChangeJobIfDead"] = "Vous ne pouvez pas changer de métier car vous êtes dans le coma",
+    ["depositedPlayerReward"] = "Vous venez de recevoir %s pour avoir déposé quelqu'un à l'hôpital !",
+	["cantChangeJobIfDead"] = "Vous ne pouvez pas changer de métier, car vous êtes dans le coma",
 	["invalidJob"] = "Vous n'avez pas le bon métier pour faire ceci",
 	["extinguishingFireReward"] = "Vous venez de recevoir %s pour avoir éteint un feu !",
 	["needToTargetPersonToCare"] = "Vous devez viser la personne pour la soigner",

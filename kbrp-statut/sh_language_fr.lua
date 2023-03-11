@@ -14,10 +14,10 @@ DarkRP.RegisterSentences("kbrp_statut", "fr", {
 	["staffNotInServicePrefix"] = "🟠",
 	["playersAmountFieldName"] = "🧑‍🤝‍🧑 Nombre de joueurs",
 	["staffAmountFieldName"] = "💎 Staffs en service",
-	["lackOfStaffText"] = "(**Manque %s staff**)",
+	["lackOfStaffText"] = " ",
 	["staffStatusEmbedFieldName"] = "👁️ Statut des staffs",
 	["ticketsInQueueFieldName"] = "📨 Tickets en attente",
 	["playersInQueueFieldName"] = "🙋 File d'attente",
 	["playersInQueueFieldDescription"] = "%s joueurs en attente",
-	["playerQueueDisabled"] = "Désactivée"
+	["playerQueueDisabled"] = "Aucune"
 })

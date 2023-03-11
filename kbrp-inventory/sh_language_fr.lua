@@ -1,5 +1,5 @@
 DarkRP.RegisterSentences("kbrp_inventory", "fr", {
-    ["inventoryFrameTitle"] = "Sac à dos",
+  ["inventoryFrameTitle"] = "Sac à dos",
 	["dropItmeOption"] = "Jeter",
 	["useItemOption"] = "Utiliser",
 	["errorOccured1"] = "Une erreur est survenue lors de l'ajout de cet item dans votre inventaire ! (#1)",
