@@ -63,7 +63,7 @@ DarkRP.RegisterSentences("kbrp_sweps", "fr", {
 	["jailButton"] = "Mettre en prison",
 	["jailFrameDescription"] = "Pourquoi souhaitez vous incarcérer %s",
 	["hitMaxJailReasonsAmount"] = "Vous ne pouvez pas mettre plus de %s peines",
-	["jailButton"] = "Mettre en prison %s",
+	["jailFrameTitle"] = "Mettre en prison",
 	["receiveFineFrameTitle"] = "Paiement d'amende",
 	["payFineButton"] = "Payer l'amende (%s)",
 	["radioFrequency"] = "Fréquence : %s",
@@ -189,5 +189,11 @@ DarkRP.RegisterSentences("kbrp_sweps", "fr", {
 	["playerUncuffOtherPlayer"] = "%s vient de retirer les menottes de %s",
 	["playerAddTiesToOtherPlayer"] = "%s vient de mettre des serflex à %s",
 	["playerRemoveTiesToOtherPlayer"] = "%s vient de retirer les serflex de %s",
-	["cantTazzIfHaveWeapon"] = "Vous ne pouvez pas tazer une personne qui a une arme lourde !"
+	["cantTazzIfHaveWeapon"] = "Vous ne pouvez pas tazer une personne qui a une arme lourde !",
+	["cantUseRadioTied"] = "Vous ne pouvez pas utiliser votre radio si vous êtes attaché !",
+	["cantUseRadioCuffed"] = "Vous ne pouvez pas utiliser votre radio si vous êtes menotté !",
+	["cantUseRadioJailed"] = "Vous ne pouvez pas utiliser votre radio si vous êtes en prison !",
+	["cantUseRadioSurrender"] = "Vous ne pouvez pas utiliser votre radio si vous avez les mains en l'air !",
+	["radioInvalidMessageLength"] = "Votre message doit contenir entre %s et %s caractères",
+	["radioMessagePattern"] = "[Radio %s] %s - %s"
 })
