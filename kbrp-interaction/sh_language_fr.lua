@@ -5,6 +5,6 @@ DarkRP.RegisterSentences("kbrp_interaction", "fr", {
 	["pushVehicle"] = "Pousser le véhicule",
 	["catchVehicle"] = "Tirer le véhicule",
 	["butcherVehicle"] = "Dépecer l'animal",
-	["errorOccured"] = "Une erreur s'est produite ! Veuillez contacter un membre du staff dés que possible !",
+	["errorOccured"] = "Une erreur s'est produite ! Veuillez contacter un membre du staff des que possible !",
 	["invalidPermissions"] = "Vous ne pouvez pas faire cela !"
 })
