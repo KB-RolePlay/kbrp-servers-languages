@@ -67,4 +67,7 @@ DarkRP.RegisterSentences("kbrp_admin", "fr", {
 	["cantDoActionInAdminRoom"] = "Vous ne pouvez pas faire cette action en salle admin !",
 	["cantDoActionInAdminMode"] = "Vous ne pouvez pas faire cette action en mode admin !",
 	["onSwitchAdminModeMessage"] = "Je prends mon service",
+	["vehicleDeletedByAdminNotification"] = "Votre véhicule vient d'être supprimé par un membre du staff",
+	["adminDeletedAllTheirVehicles"] = "%s vient de supprimer tout vos véhicules",
+	["adminDeletedPlayerVehicles"] = "Vous venez de supprimer les véhicules de %s"
 })
