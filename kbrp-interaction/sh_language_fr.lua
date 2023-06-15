@@ -13,4 +13,8 @@ DarkRP.RegisterSentences("kbrp_interaction", "fr", {
 	["descPullVehicle"] = "Tirer le véhicule avec vos mains",
 	["descOpenTrunk"] = "Ouvrir le coffre du véhicule",
 	["descButcher"] = "Dépecer la peau de l'animal",
+	["takeOffEquipmentTitle"] = "Déposer son équipement",
+	["takeOffEquipmentDescription"] = "Déposer son équipement et sa tenue",
+	["takeEquipmentTitle"] = "Prendre son équipement",
+	["takeEquipmentDescription"] = "Prendre son équipement et sa tenue",
 })
