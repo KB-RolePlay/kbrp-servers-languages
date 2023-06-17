@@ -28,7 +28,6 @@ DarkRP.RegisterSentences("kbrp_casier", "de", {
 	["lowPunishmentGravity"] = "Niedrig",
 	["mediumPunishmentGravity"] = "Mittel",
 	["highPunishmentGravity"] = "Hoch",
-	["lowPunishmentGravity"] = "Durchschnitt",
 	["viewPunishmentFrameTitle"] = "Sanktion #%s",
 	["viewTemporaryPunishmentFrameTitle"] = "vorübergehende Sanktion",
 	["permanent"] = "PERMANENT",
@@ -69,5 +68,7 @@ DarkRP.RegisterSentences("kbrp_casier", "de", {
 	["steamIdNotFound"] = "Die gesuchte SteamID existiert nicht!",
 	["points"] = "Punkte",
 	["punishments"] = "Sanktionen",
+	["automaticBan"] = "Bannissement automatique lié aux points",
+	["automaticBanNotify"] = "Vous venez de recevoir un avertissement qui à entrainé automatiquement votre bannissement.",
 	["dateFormat"] = "%d/%m/%Y"
 })
