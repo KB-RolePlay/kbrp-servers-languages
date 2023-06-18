@@ -9,7 +9,7 @@ DarkRP.RegisterSentences("kbrp_equipment", "de", {
 	["rightClickInstructionDescription"] = "Abbrechen",
 	["shieldHealth"] = "Schutzschild - HP,
 	["shieldHealthDescription"] = "Zeigt den Status von deinem Schild an",
-	["undoConstructionName"] = "Abbauen",
+	["undoConstructionName"] = "Sperrgebiet",
 	["tooMuchPlayersInSameSpecialityNotification"] = "Die maximale Anzahl in diesem Bereich wurde erreicht",
 	["assaultSpeciality"] = "Sturmgewehr",
 	["shotgunSpeciality"] = "Shotgun",
