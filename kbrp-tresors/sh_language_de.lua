@@ -40,4 +40,5 @@ DarkRP.RegisterSentences("kbrp_tresors", "de", {
     ["metalDetectorHUDDigAction"] = "Graben",
     ["metalDetectorHUDSearchAction"] = "Suchen",
     ["findObjectNotification"] = "Du hast gerade einen Gegenstand gefunden!"
+    ["notOnIsland"] = "Gehe auf die Insel",
 })
