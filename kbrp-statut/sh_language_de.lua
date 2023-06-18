@@ -23,4 +23,3 @@ DarkRP.RegisterSentences("kbrp_statut", "de", {
 	["playersInQueueFieldDescription"] = "%s wartende Spieler",
 	["playerQueueDisabled"] = "Deaktiviert"
 })
-
