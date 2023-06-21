@@ -59,7 +59,7 @@ DarkRP.RegisterSentences("kbrp_sweps", "de", {
 	["cancelButton"] = "Abbrechen",
 	["addFineButton"] = "Bußgeld verhängen (%s)",
 	["cantAddPersonInjail"] = "Du kannst niemanden ins Gefängnis bringen",
-	["noPunishmentToAdd"] = "Vous n'avez aucune peine à ajouter",
+	["noPunishmentToAdd"] = "Du kannst keine Straftaten hinzuzufügen",
 	["jailButton"] = "Inhaftieren",
 	["jailButton2"] = "Inhaftieren %s",
 	["jailFrameDescription"] = "Warum möchtest du %s inhaftieren?",
