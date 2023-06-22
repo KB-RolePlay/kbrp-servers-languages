@@ -6,7 +6,7 @@ DarkRP.RegisterSentences("kbrp_health", "de", {
 	["cantAffordCare"] = "Du kannst dir eine Behandlung nicht leisten.",
 	["careInProgress"] = "Du wirst behandelt...",
 	["npcTooFar"] = "Du bist zu weit vom Arzt entfernt! So können wir dich nicht behandeln.",
-	["beenCared"] = "Du wurdest erfolgreich behandelt!"
+	["beenCared"] = "Du wurdest erfolgreich behandelt!",
         ["freeHealth"] = "Kostenlose Heilung für deinen Beruf",
 	["perfectHealth"] = "Du bist bereits gesund!",
 	["hopital"] = "Krankenhaus Kobralost",
