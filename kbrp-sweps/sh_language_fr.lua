@@ -124,7 +124,6 @@ DarkRP.RegisterSentences("kbrp_sweps", "fr", {
 	["targetTooFarJailScreen"] = "La personne est trop loin de l'écran",
 	["cantJailPlayer"] = "Vous ne pouvez pas donner cette peine de prison à cette personne",
 	["cantJailVehicle"] = "Vous ne pouvez pas donner de peine de prison à un véhicule",
-	["cantJailPlayer"] = "Vous ne pouvez pas donner de peine de prison à cette personne",
 	["successfulyJailPlayer"] = "Vous venez d'emprisonner cette personne pendant %s",
 	["playerJailedGlobalNotification"] = "%s vient d'emprisonner %s pendant %s",
 	["playerGagedNotification"] = "Vous venez de bailloner %s",
