@@ -7,7 +7,7 @@ DarkRP.RegisterSentences("kbrp_equipment", "de", {
 	["leftClickInstructionDescription"] = "Platzieren",
 	["rightClickInstruction"] = "RECHTSKLICK",
 	["rightClickInstructionDescription"] = "Abbrechen",
-	["shieldHealth"] = "Schutzschild - HP,
+	["shieldHealth"] = "Schutzschild - HP",
 	["shieldHealthDescription"] = "Zeigt den Status von deinem Schild an",
 	["undoConstructionName"] = "Sperrgebiet",
 	["tooMuchPlayersInSameSpecialityNotification"] = "Die maximale Anzahl in diesem Bereich wurde erreicht",
