@@ -6,7 +6,7 @@ DarkRP.RegisterSentences("kbrp_interaction", "de", {
 	["catchVehicle"] = "Fahrzeug ziehen",
 	["butcherVehicle"] = "Tier häuten",
 	["errorOccured"] = "Es ist ein Fehler aufgetreten! Bitte kontaktiere so schnell wie möglich ein Mitglied des Teams!",
-	["invalidPermissions"] = "Das kannst du nicht tun!"
+	["invalidPermissions"] = "Das kannst du nicht tun!",
 	["descAddInventory"] = "Gegenstand zum Inventar hinzufügen",
 	["descAddTrunk"] = "Gegenstand in den Kofferaum legen",
 	["descPushVehicle"] = "Fahrzeug anstossen",
