@@ -12,6 +12,7 @@ DarkRP.RegisterSentences("kbrp_charactercreator", "de", {
 	["characterBeenSaved"] = "Dein Charakter wurde erfolgreich gespeichert!",
 	["cantAfford"] = "Du hast nicht genug Geld!",
 	["incorrectName"] = "Dein RP-Name ist ungültig, bitte versuche es erneut.",
+	["incorrectName2"] = "Dein Name muss einen Vor- und einen Nachnamen enthalten.",
 	["nameAlreadyUsed"] = "Dieser Name ist bereits vergeben, bitte versuche einen anderen.",
 	["invalidPlayermodel"] = "Dein Playermodel ist ungültig, bitte versuche ein anderes.",
 	["changeMyCharacter"] = "Charakter bearbeiten"

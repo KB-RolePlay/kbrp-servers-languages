@@ -12,5 +12,8 @@ DarkRP.RegisterSentences("kbrp_trunk", "de", {
 	["noEnoughTrunkPlace"] = "Es gibt nicht genug Platz im Kofferraum!",
 	["equipWeapon"] = "Du rüstest deine Waffe aus...",
 	["weaponEquiped"] = "Du hast deine Waffe ausgerüstet!",
-	["trunkLocked"] = "Dieser Kofferraum ist abgeschlossen."
+	["trunkLocked"] = "Dieser Kofferraum ist abgeschlossen.",
+	["tooMuchFoodBag"] = "Du hast die maximale Anzahl an Lebensmitteltaschen in deinem Kofferaum erreicht",
+	["openTrunk"] = "KOFFERRAUM ÖFFNEN",
+	["trunkDesc"] = "Drücke R um den Kofferaum zu öffnen",
 })

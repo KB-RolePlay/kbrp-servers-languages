@@ -8,6 +8,8 @@ DarkRP.RegisterSentences("kbrp_statut", "de", {
 	["serverMapFieldName"] = "🏠 Aktuelle Map",
 	["serverCollectionFieldName"] = "📚 Server-Kollektion",
 	["serverCollectionFieldDescription"] = "[Klicke hier](https://kobralost-rp.de/addons)",
+	["dashboardFieldName"] = "💎 Server Dashboard",
+	["dashboardFieldDescription"] = "[Klicke hier](https://dashboard.kobralost-rp.de/)",
 	["joinServerFieldName"] = "🌐 Server beitreten",
 	["joinServerFieldDescription"] = "steam://connect/play.kobralost-rp.de",
 	["onlineSttaffPrefix"] = "🟢",

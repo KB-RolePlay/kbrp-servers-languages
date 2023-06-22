@@ -230,4 +230,16 @@ DarkRP.RegisterSentences("kbrp_gm", "de", {
     ["primaryAssault"] = "Sturmgewehre",
     ["pistol"] = "Pistolen",
     ["otherCategory"] = "Sonstige",
+    ["radio"] = "Funkgerät",
+    ["ties"] = "Kabelbinder",
+    ["whisperVoiceModeNotification"] = "Du flüsterst jetzt",
+    ["normalVoiceModeNotification"] = "Du sprichst jetzt normal",
+    ["shoutVoiceModeNotification"] = "Du schreist jetzt",
+    ["whisperVoiceModeText"] = "Du flüsterst",
+    ["normalVoiceModeText"] = "Du sprichst normal",
+    ["shoutVoiceModeText"] = "Du schreist",
+    ["changeVoiceModeText"] = "Drücke %s um deinen Sprachmodus zu wechseln",
+    ["forceRPName"] = "Du hast gerade die Umbenennung von %s erzwungen",
+    ["forceRPNameText"] = "ForceName",
+    ["cantChangeJobIfDead"] = "Du kannst deinen Beruf nicht wechseln, wenn du tot bist!" 
 })

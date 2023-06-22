@@ -39,5 +39,6 @@ DarkRP.RegisterSentences("kbrp_tresors", "de", {
     ["chestHUDDescription"] = "Um eine Truhe zu verkaufen, klicke mit der linken Maustaste auf den Tresen.",
     ["metalDetectorHUDDigAction"] = "Graben",
     ["metalDetectorHUDSearchAction"] = "Suchen",
-    ["findObjectNotification"] = "Du hast gerade einen Gegenstand gefunden!"
+    ["findObjectNotification"] = "Du hast gerade einen Gegenstand gefunden!",
+    ["notOnIsland"] = "Gehe auf die Insel",
 })

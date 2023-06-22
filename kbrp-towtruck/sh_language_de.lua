@@ -1,5 +1,5 @@
 DarkRP.RegisterSentences("kbrp_towtruck", "de", {
-    ["defaultNPCName"] = "Robert Wiggins",
+["defaultNPCName"] = "Robert Wiggins",
 ["getVehicleButton"] = "Abschleppwagen ausparken",
 ["returnVehicleButton"] = "Abschleppwagen einparken",
 ["toStartInstructionTitle"] = "Um zu beginnen",
@@ -31,5 +31,9 @@ DarkRP.RegisterSentences("kbrp_towtruck", "de", {
 ["vehicleDestroyedCantRepair"] = "Das Fahrzeug ist zerstört, du musst es abschleppen!",
 ["vehicleTooFar"] = "Du bist zu weit vom Fahrzeug entfernt",
 ["vehicleRepaired"] = "Das Fahrzeug wird repariert",
-["vehicleRepairStart"] = "Du beginnst mit der Reparatur des Fahrzeugs"
+["vehicleRepairStart"] = "Du beginnst mit der Reparatur des Fahrzeugs",
+["cardealerAction"] = "Gebühren für die Aufbewahrung deines Fahrzeugs",
+["vehicleInCarDealer"] = "Dein Fahrzeug steht jetzt in deiner Garage",
+["vehicleDestroyed"] = "Dein Fahrzeug wurde entfernt, weil es explodiert ist",
+["vehicleDestroyedCantTow"] = "Das Fahrzeug kann nicht abgeschleppt werden, da es zerstört ist"
 })
