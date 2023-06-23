@@ -29,5 +29,7 @@ DarkRP.RegisterSentences("kbrp_hunter", "de", {
 	["noAvailableZones"] = "Es sind keine Zonen verfügbar, bitte versuche es gleich nochmal!",
 	["missionTaken"] = "Du hast einen Auftrag angenommen!",
 	["needToBeInServiceToCancelMission"] = "Du musst im Dienst sein um einen Auftrag abzubrechen!",
-	["missionCanceled"] = "Du hast deinen Auftrag abgebrochen!"
+	["missionCanceled"] = "Du hast deinen Auftrag abgebrochen!",
+	["menuInServiceTitle"] = "Du bist derzeit im Dienst",
+	["menuOutServerTitle"] = "Du bist derzeit außer Dienst"	
 })
