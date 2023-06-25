@@ -47,7 +47,7 @@ DarkRP.RegisterSentences("kbrp_admin", "de", {
     ["needWaitBeforeChangeJob"] = "Du musst noch %s Sekunden warten bevor du deinen Beruf ändern kannst.",
     ["noPermissionNotification"] = "Du hast nicht die Rechte um das zu tun!",
     ["adminChatPattern"] = "[ADMIN] %s : %s",
-    ["cantSuicideNotification"] = "Du kannst dich selber töten! Idioooooooooooooot! :D",
+    ["cantSuicideNotification"] = "Guter Versuch, aber das kannst du leider nicht! :D",
     ["cantTazzInAdminRoom"] = "Du darfst im Adminraum niemanden tazern!",
     ["cantTazzPlayerInAdminRoom"] = "Du darfst im Adminraum keinen Spieler tazern!",
     ["cantAddFineInAdminRoom"] = "Du darfst im Adminraum kein Bußgeld geben!",
