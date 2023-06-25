@@ -75,7 +75,7 @@ DarkRP.RegisterSentences("kbrp_mayor", "de", {
 	["cantRobbedBankNoMayor"] = "Es gibt keinen Bürgermeister in der Stadt! Du kannst diesen Safe nicht überfallen.",
 	["cantRobbedBankCooldown"] = "Bevor du das Geld aus der Tasche nehmen kannst, musst du %s warten.",
 	["noMoneyInBank"] = "Es befindet sich kein Geld im Safe!",
-	["receivedTaxedSalary"] = "Du hast gerade dein Gehalt bekommen: %s es wurde mit %s%s versteuert!",
+	["receivedTaxedSalary"] = "Du hast gerade dein Gehalt bekommen: %s. Es wurde mit %s%s versteuert!",
 	["mayorReceivedTaxesSalaryStatistics"] = "Mit Steuern hast du gerade %s bekommen!",
 	["mayorGiveLightLicense"] = "Du hast gerade %s eine Leichte Lizenz gegeben!",
 	["mayorGiveHeavyLicense"] = "Du hast gerade eine Schwere Lizenz an %s gegeben!",
