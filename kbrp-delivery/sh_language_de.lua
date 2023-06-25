@@ -11,12 +11,12 @@ DarkRP.RegisterSentences("kbrp_delivery", "de", {
 	["noAvailableEntities"] = "Ich habe kein Paket für dich! Du hast dich wohl bei der Person vertan.",
 	["invalidPermission"] = "Du hast keinen Zugriff darauf!",
 	["willGiveEntities"] = "Bitte warte einen Moment, ich werde dir deine Pakete geben...",
-	["receiverNPCName1"] = "Sebastian",
-	["receiverNPCFemale2"] = "Marianne",
+	["receiverNPCName1"] = "Thomas",
+	["receiverNPCFemale2"] = "Lauraa",
 	["receiverNPCFemale3"] = "Dilara",
 	["receiverNPCFemale4"] = "Michelle",
-	["receiverNPCMale1"] = "Boris",
-	["receiverNPCMale2"] = "Thomas",
+	["receiverNPCMale1"] = "Leon",
+	["receiverNPCMale2"] = "Helmut",
 	["receiverNPCMale3"] = "Deniz",
 	["chairEnt"] = "Stuhl",
 	["tableEnt"] = "Tisch",
@@ -56,7 +56,7 @@ DarkRP.RegisterSentences("kbrp_delivery", "de", {
 	["missionCanceled"] = "Du hast gerade deinen Auftrag abgebrochen!",
 	["needToExitVehicleBeforeTakeService"] = "Du musst dein Fahrzeug verlassen bevor du den Dienst verlassen kannst!",
 	["alreadyInService"] = "Du bist bereits im Dienst!",
-	["alreadyNotInService"] = "Du bist bereits außer Dienst.",
-	["currentlyInService"] = "Du bist bereits im Dienst!",
-	["currentlyNoInService"] = "Du bist bereits außer Dienst."
+	["alreadyNotInService"] = "Du bist außer Dienst",
+	["currentlyInService"] = "Du bist im Dienst",
+	["currentlyNoInService"] = "Du bist außer Dienst"
 })
