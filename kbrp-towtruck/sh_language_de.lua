@@ -28,7 +28,7 @@ DarkRP.RegisterSentences("kbrp_towtruck", "de", {
 ["vehicleTowed"] = "Du hast gerade ein Fahrzeug abgeschleppt!",
 ["npcTooFar"] = "Du bist zu weit vom NPC entfernt",
 ["noRepairToDo"] = "Dieses Fahrzeug benötigt keine Reparatur!",
-["vehicleDestroyedCantRepair"] = "Das Fahrzeug ist zerstört, du musst es abschleppen!",
+["vehicleDestroyedCantRepair"] = "Das Fahrzeug ist zerstört, du kannst es nicht reparieren!",
 ["vehicleTooFar"] = "Du bist zu weit vom Fahrzeug entfernt",
 ["vehicleRepaired"] = "Das Fahrzeug wird repariert",
 ["vehicleRepairStart"] = "Du beginnst mit der Reparatur des Fahrzeugs",
