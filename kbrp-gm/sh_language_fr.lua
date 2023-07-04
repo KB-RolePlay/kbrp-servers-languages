@@ -241,5 +241,8 @@ DarkRP.RegisterSentences("kbrp_gm", "fr", {
     ["changeVoiceModeText"] = "Appuyez sur %s pour changer",
     ["forceRPName"] = "Vous venez de forcer le changement de nom de %s",
     ["forceRPNameText"] = "ForceName",
-    ["cantChangeJobIfDead"] = "Vous ne pouvez pas changer de métier quand vous êtes mort !"
+    ["cantChangeJobIfDead"] = "Vous ne pouvez pas changer de métier quand vous êtes mort !",
+    ["spawnMenuTitle"] = "Menu des props",
+    ["oldMenuButton"] = "Ancien menu",
+    ["toolsCategory"] = "Outils"
 })
