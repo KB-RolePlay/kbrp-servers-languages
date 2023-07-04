@@ -241,5 +241,8 @@ DarkRP.RegisterSentences("kbrp_gm", "de", {
     ["changeVoiceModeText"] = "Drücke %s um deinen Sprachmodus zu wechseln",
     ["forceRPName"] = "Du hast gerade die Umbenennung von %s erzwungen",
     ["forceRPNameText"] = "ForceName",
-    ["cantChangeJobIfDead"] = "Du kannst deinen Beruf nicht wechseln, wenn du tot bist!" 
+    ["cantChangeJobIfDead"] = "Du kannst deinen Beruf nicht wechseln, wenn du tot bist!",
+    ["spawnMenuTitle"] = "Spawnmenü",
+    ["oldMenuButton"] = "Altes Menü",
+    ["toolsCategory"] = "Tools"
 })
