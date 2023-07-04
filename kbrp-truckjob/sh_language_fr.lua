@@ -18,5 +18,8 @@ DarkRP.RegisterSentences("kbrp_truckjob", "fr", {
 	["tooFarLoadPoint"] = "Vous n'étiez pas a côté du point pour charger votre cargaison !",
 	["truckLoaded"] = "Vous venez de charger votre camion !",
 	["tooFarSellPoint"] = "Vous n'étiez pas a côté du point pour vendre votre cargaison !",
-	["trailerDelivered"] = "Vous venez de livrer votre remorque et avez gagné "
+	["trailerDelivered"] = "Vous venez de livrer votre remorque et avez gagné %s",
+	["inServiceInstructionTitle"] = "Vous êtes actuellement en service",
+	["noServiceInstructionTitle"] = "Vous êtes actuellement hors service",
+	["unavailableButton"] = "Indisponible"
 })
