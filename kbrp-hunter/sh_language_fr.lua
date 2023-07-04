@@ -31,5 +31,6 @@ DarkRP.RegisterSentences("kbrp_hunter", "fr", {
 	["needToBeInServiceToCancelMission"] = "Vous devez être en service pour annuler une mission !",
 	["missionCanceled"] = "Vous venez d'annuler votre mission !",
 	["menuInServiceTitle"] = "Vous êtes actuellement en service",
-	["menuOutServerTitle"] = "Vous êtes actuellement hors service"
+	["menuOutServerTitle"] = "Vous êtes actuellement hors service",
+	["goToPoint"] = "Dirigez-vous au point indiqué pour y %s"
 })
