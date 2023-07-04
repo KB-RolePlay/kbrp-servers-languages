@@ -58,5 +58,7 @@ DarkRP.RegisterSentences("kbrp_delivery", "de", {
 	["alreadyInService"] = "Du bist bereits im Dienst!",
 	["alreadyNotInService"] = "Du bist außer Dienst",
 	["currentlyInService"] = "Du bist im Dienst",
-	["currentlyNoInService"] = "Du bist außer Dienst"
+	["currentlyNoInService"] = "Du bist außer Dienst",
+	["unavailableButton"] = "Nicht verfügbar",
+	["takeServiceInstructionTitle"] = "Um zu beginnen"
 })

@@ -16,7 +16,7 @@ DarkRP.RegisterSentences("kbrp_admin", "de", {
     ["claimTicketAction"] = "Claimen",
     ["cantClaimYourTicket"] = "Du kannst deine eigenen Tickets nicht annehmen!",
     ["adminRoomContextMenuAction"] = "Adminraum",
-    ["deletePlayerVehiclesContextMenuActionee"] = "Fahrzeuge entfernen",
+    ["deletePlayerVehiclesContextMenuAction"] = "Fahrzeuge entfernen",
     ["reviveContextMenuAction"] = "Wiederbele ben",
     ["repairVehicleContextMenuAction"] = "Reparieren",
     ["deleteVehicleContextMenuAction"] = "Fahrzeug entfernen",
