@@ -114,7 +114,7 @@ DarkRP.RegisterSentences("kbrp_gm", "fr", {
     ["thirdPerson"] = "3ème personne",
     ["callAdmin"] = "Appeller un Admin",
     ["adminMode"] = "Mode Admin",
-    ["playerMode"] = "Mode Admin",
+    ["playerMode"] = "Mode Joueur",
     ["adminLocker"] = "Casier Administratif",
     ["jobLocker"] = "Casier Métier",
     ["cartoonMode"] = "Theme cartoon",
