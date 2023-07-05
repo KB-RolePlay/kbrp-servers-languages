@@ -18,5 +18,8 @@ DarkRP.RegisterSentences("kbrp_truckjob", "de", {
 	["tooFarLoadPoint"] = "Du bist zu weit vom Ladepunkt entfernt!",
 	["truckLoaded"] = "Du hast deinen LKW erfolgreich beladen.",
 	["tooFarSellPoint"] = "Du bist zu weit vom Verkaufspunkt entfernt!",
-	["trailerDelivered"] = "Du hast deinen Anhänger erfolgreich abgeliefert und erhälst "
+	["trailerDelivered"] = "Du hast deinen Anhänger erfolgreich abgeliefert und erhälst ",
+	["inServiceInstructionTitle"] = "Du bist im Dienst",
+	["noServiceInstructionTitle"] = "Du bist außer Dienst",
+	["unavailableButton"] = "Nicht verfügbar"
 })
