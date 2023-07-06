@@ -70,5 +70,6 @@ DarkRP.RegisterSentences("kbrp_casier", "fr", {
 	["punishments"] = "sanctions",
 	["automaticBan"] = "Bannissement automatique lié aux points",
 	["automaticBanNotify"] = "Vous venez de recevoir un avertissement qui à entrainé automatiquement votre bannissement.",
-	["dateFormat"] = "%d/%m/%Y"
+	["dateFormat"] = "%d/%m/%Y",
+	["bannedByAdministration"] = "Banni par l'administration"
 })
