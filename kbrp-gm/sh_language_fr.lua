@@ -266,5 +266,6 @@ DarkRP.RegisterSentences("kbrp_gm", "fr", {
     ["secondPrefix"] = "s",
     ["secondSingular"] = "seconde",
     ["secondPlural"] = "secondes",
-    ["and"] = "et"
+    ["and"] = "et",
+    ["sendMessage"] = "Message"
 })
