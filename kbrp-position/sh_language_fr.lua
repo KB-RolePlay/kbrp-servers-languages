@@ -1,4 +1,5 @@
 DarkRP.RegisterSentences("kbrp_position", "fr", {
+DarkRP.RegisterSentences("kbrp_position", "fr", {
 	["adminZone"] = "Zone administrative",
 	["bannedZone"] = ".- .. -.. . --.. -....- -- --- ..",
 	["scrambledGPS"] = "GPS Brouillé...",
@@ -76,4 +77,12 @@ DarkRP.RegisterSentences("kbrp_position", "fr", {
 	["vehicleDealer"] = "Concessionnaire",
 	["firefighterStation"] = "Caserne des pompiers",
 	["casino"] = "Casino",
+	["farm"] = "Ferme",
+	["whiteHouseBunker"] = "Bunker maison blanche",
+	["bunkerCottage"] = "Bunker chalet",
+	["mineBunker"] = "Bunker mine",
+	["yellowBunker"] = "Bunker hangar jaune",
+	["mine"] = "Mine",
+	["petrolStation"] = "Place pétrolière",
+	["paradise"] = "Kobra Paradise",
 })
