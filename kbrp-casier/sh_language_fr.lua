@@ -1,5 +1,5 @@
 DarkRP.RegisterSentences("kbrp_casier", "fr", {
-    	["freekillTicketReason"] = "Freekill",
+    ["freekillTicketReason"] = "Freekill",
 	["metagamingTicketReason"] = "Métagaming",
 	["noFearRPTicketReason"] = "NoFearRP",
 	["nlrTicketReason"] = "NLR",
