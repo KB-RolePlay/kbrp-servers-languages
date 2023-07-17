@@ -127,5 +127,6 @@ DarkRP.RegisterSentences("kbrp_bunker", "fr", {
 	["deliveryTimeLeft"] = "Il vous reste %ss pour vous rendre au point indiqué",
 	["productionStoppedStorageFull"] = "La production de votre %s est arrêté car le stockage est plein !",
 	["productionStoppedNotEnoughtRawMaterial"] = "La production de votre %s est arrêté car vous n'avez pas de matière première !",
+	["boughtBunkerNPCDesc"] = "Acheter vos bunkers",
 	["productionStoppedNoEmployee"] = "La production de votre %s est arrêté car vous n'avez pas d'employé !"
 })
