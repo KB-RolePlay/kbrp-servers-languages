@@ -12,8 +12,9 @@ DarkRP.RegisterSentences("kbrp_charactercreator", "fr", {
 	["characterBeenSaved"] = "Votre personnage à bien été sauvegardé",
 	["cantAfford"] = "Vous n'avez pas suffisament d'argent",
 	["incorrectName"] = "Votre nom RP est incorrect, veuillez réessayer",
-	["incorrectName2"] = "Votre dénomination doit contenir un prénom et un nom.",
+	["incorrectName2"] = "Votre dénomination doit contenir un prénom et un nom",
 	["nameAlreadyUsed"] = "Le nom que vous essayer de prendre est déjà utilisé",
 	["invalidPlayermodel"] = "Votre model est incorrect, veuillez réessayer",
-	["changeMyCharacter"] = "Changer mon personnage"
+	["changeMyCharacter"] = "Changer mon personnage",
+	["npcName"] = "Marlon Break",
 })
