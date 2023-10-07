@@ -77,13 +77,15 @@ DarkRP.RegisterSentences("kbrp_mayor", "fr", {
 	["noMoneyInBank"] = "Il n'y a pas d'argent dans le coffre",
 	["receivedTaxedSalary"] = "Vous venez de recevoir votre salaire de %s taxé à %s%s",
 	["mayorReceivedTaxesSalaryStatistics"] = "Avec les taxes vous venez de récupérer %s dans votre coffre",
-	["mayorGiveLightLicense"] = "Vous venez de donner une license d'arme légère à %s",
-	["mayorGiveHeavyLicense"] = "Vous venez de donner une license d'arme lourde à %s",
+	["mayorGiveLightLicense"] = "Vous venez de payer une license d'arme légère à %s (%s)",
+	["mayorGiveHeavyLicense"] = "Vous venez de payer une license d'arme lourde à %s (%s)",
 	["mayorRemoveLightLicense"] = "Vous venez de retirer la license d'arme légère de %s",
 	["mayorRemoveHeavyLicense"] = "Vous venez de retirer la license d'arme lourde de %s",
 	["receiveLightLicense"] = "Vous venez de recevoir une license d'arme légère",
 	["receiveHeavyLicense"] = "Vous venez de recevoir une license d'arme lourde",
 	["lightLicenseRemoved"] = "Vous venez de vous faire retirer une license d'arme légère",
 	["alreadyHaveThisLicense"] = "Vous avez déjà cette license d'arme",
-	["heavyLicenseRemoved"] = "Vous venez de vous faire retirer une license d'arme lourde"
+	["heavyLicenseRemoved"] = "Vous venez de vous faire retirer une license d'arme lourde",
+	["cannotRemoveTime"] = "Vous pourrez retirer sa license d'arme dans %s",
+	["noMoneyToBuyLicense"] = "Vous n'avez pas assez d'argent pour acheter une license d'arme",
 })
