@@ -7,5 +7,6 @@ DarkRP.RegisterSentences("kbrp_auto_moderation", "fr", {
 	["tazzTooMuch"] = "Freetazz plus de %s fois des personnes au hasard",
 	["cantSerflexPlayerWithActiveWeapon"] = "La personne est armée vous ne pouvez pas lui mettre des colliers de sérrages",
 	["cantCuffPlayerWithActiveWeapon"] = "La personne est armée vous ne pouvez pas la menotter",
+	["cantDropThisWeapon"] = "Malheureusement vous ne pouvez pas jeter ceci",
 	["cantHaveThisName"] = "Vous ne pouvez pas avoir ce nom RolePlay car il contient un mot interdit"
 })
