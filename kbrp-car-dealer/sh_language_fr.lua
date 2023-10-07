@@ -74,5 +74,6 @@ DarkRP.RegisterSentences("kbrp_car_dealer", "fr", {
 	["vehicleRefuelled"] = "Vous venez de ravitailler votre véhicule",
 	["noEnoughtMoneyToRepairVehicle"] = "Vous n'avez pas suffisament d'argent pour réparer le véhicule",
 	["vehicleRepaired"] = "Vous venez de réparer votre véhicule",
+	["npcName"] = "George Graben",
 	["payForCustomExitPrice"] = "Vous venez de payer %s pour %s"
 })
