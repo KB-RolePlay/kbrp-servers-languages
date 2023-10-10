@@ -76,4 +76,12 @@ DarkRP.RegisterSentences("kbrp_position", "de", {
 	["vehicleDealer"] = "Autohändler",
 	["firefighterStation"] = "Feuerwache",
 	["casino"] = "Casino",
+	["farm"] = "Farm",
+	["whiteHouseBunker"] = "Bunker am weißen Haus",
+	["bunkerCottage"] = "Bunker an den Hütten",
+	["mineBunker"] = "Bunker an der Mine",
+	["yellowBunker"] = "Bunker am gelben Hangar",
+	["mine"] = "Mine",
+	["petrolStation"] = "Öl-Platz",
+	["paradise"] = "Kobra Paradies",
 })
