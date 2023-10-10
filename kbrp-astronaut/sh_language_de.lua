@@ -12,6 +12,7 @@ DarkRP.RegisterSentences("kbrp_astronaut", "de", {
 	["takeOffInstruction5"] = "Autopilot aktivieren",
 	["takeOffInstruction6"] = "Wir sind startklar, jetzt geht es los!",
 	["landingInProgressTitle"] = "Landung wird durchgeführt...",
+	["npcDesc"] = "Fliege zum Mond",
 	["landingInProgressDescription"] = "Wir freuen uns, dass du mit uns reist. Wir sind gleich an unserem Zielort.",
 	["waitBeforeTakeFlightAgain"] = "Warte einige Sekunden, bevor du wieder einen Flug antrittst!",
 	["pnjTooFar"] = "Du musst näher am NPC sein, um zu loszufliegen!",
