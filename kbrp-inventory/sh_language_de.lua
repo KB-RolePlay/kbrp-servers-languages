@@ -16,5 +16,5 @@ DarkRP.RegisterSentences("kbrp_inventory", "de", {
 	["inventoryItemRemovedLog"] = "%s hat gerade: %s aus seinem Inventar entfernt!",
 	["tooMuchFoodBag"] = "Du darfst keinen Essensbeutel in deinem Inventar haben!",
 	["foodBag"] = "Essensbeutel",
-	["reachMaxEntityLimit"] = "Du kannst das nicht in dein Inventar aufnehmen, da es voll ist"
+	["reachMaxEntityLimit"] = "Dein Inventar ist voll"
 })
