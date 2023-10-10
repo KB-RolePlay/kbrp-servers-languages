@@ -12,13 +12,9 @@ DarkRP.RegisterSentences("kbrp_astronaut", "fr", {
 	["takeOffInstruction5"] = "Mode manuel activé",
 	["takeOffInstruction6"] = "Activation des sécurité de verouillage et d'assistance",
 	["landingInProgressTitle"] = "Atterrissage en cours...",
-	["landingInProgressDescription"] = "Nous sommes heureux de vous voir parmis nos voyageurs \n nous arrivons dans quelques secondes préparez vous",
 	["waitBeforeTakeFlightAgain"] = "Attendez quelques secondes avant de reprendre un vol",
 	["pnjTooFar"] = "Vous devez être plus proche du PNJ pour décoler",
-	["cantDoThisActionOnMoon"] = "Vous ne pouvez pas faire spawn cela sur la Lune",
 	["npcDesc"] = "Prendre la fusée",
 	["landingInProgressDescription"] = "Nous sommes heureux de vous voir parmis nos voyageurs \n nous arrivons dans quelques secondes préparez vous.",
-	["waitBeforeTakeFlightAgain"] = "Attendez quelques secondes avant de reprendre un vol !",
-	["pnjTooFar"] = "Vous devez être plus proche du PNJ pour décoler !",
 	["cantDoThisActionOnMoon"] = "Vous ne pouvez pas faire spawn cela sur la Lune !",
 })
