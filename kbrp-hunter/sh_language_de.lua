@@ -1,9 +1,9 @@
 DarkRP.RegisterSentences("kbrp_hunter", "de", {
     ["killAnimal"] = "Töte: %s!",
-	["goat"] = "x Ziegen",
-	["monkey"] = "x Affen",
-	["deer"] = "x Rehe",
-	["rhinoceros"] = "x Nashörner",
+	["goat"] = "ziege",
+	["monkey"] = "affe",
+	["deer"] = "reh",
+	["rhinoceros"] = "nashorn",
 	["leaveService"] = "Dienst verlassen",
 	["takeService"] = "Dienst antreten",
 	["takeMission"] = "Auftrag annehmen",

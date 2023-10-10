@@ -69,5 +69,12 @@ DarkRP.RegisterSentences("kbrp_admin", "de", {
 	["onSwitchAdminModeMessage"] = "Ich trete meinen Dienst an",
 	["vehicleDeletedByAdminNotification"] = "Dein Fahrzeug wurde von einem Teammitglied entfernt",
 	["adminDeletedAllTheirVehicles"] = "%s hat gerade alle deine Fahrzeuge entfernt",
+	["messageCaracters"] = "Deine Nachricht darf maximal %s Zeichen enthalten",
+	["sendedMessage"] = "Du hast gerade eine Administrative Nachricht an %s gesendet",
+	["message"] = "Nachricht",
+	["adminMessage"] = "Administrative Nachricht",
+	["adminMessageOf"] = "Administrative Nachricht von %s",
+	["caractersLimits"] = "Maximale Anzahl an Zeichen: %s/%s",
+	["sendMessage"] = "Nachricht senden",
 	["adminDeletedPlayerVehicles"] = "Du hast gerade die Fahrzeuge von %s entfernt"
 })

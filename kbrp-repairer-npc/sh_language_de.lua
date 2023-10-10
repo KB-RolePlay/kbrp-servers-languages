@@ -12,5 +12,6 @@ DarkRP.RegisterSentences("kbrp_repairer_npc", "de", {
 	["repairInProgress"] = "Dein Fahrzeug wird repariert, bitte warte einen Moment...",
 	["npcTooFarRepairCanceled"] = "Du bist zu weit vom NPC entfernt, die Reparatur wird abgebrochen.",
 	["vehicleTooFarNPC"] = "Das Fahrzeug ist zu weit vom NPC entfernt, die Reparatur wird abgebrochen.",
+	["npcName"] = "Dominic Toretto",
 	["vehicleRepaired"] = "Dein Fahrzeug wurde erfolgreich repariert!"
 })
