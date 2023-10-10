@@ -47,7 +47,7 @@ DarkRP.RegisterSentences("kbrp_bunker", "de", {
       ["bitminerUpgrades"] = "Upgrades",
       ["bitminerRGBKit"] = "RGB Kit",
       ["methBunker"] = "Meth Bunker",
-      ["methBunkerDescription"] = "Luxuriöser und robuster Bunker\nbefindet sich an den Chalets",
+      ["methBunkerDescription"] = "Luxuriöser und robuster Bunker\nbefindet sich an den Hütten",
       ["methBunkerFilter"] = "Filter",
       ["methBunkerFurnance"] = "Ofen",
       ["methBunkerMaterial1"] = "Lager #1",
