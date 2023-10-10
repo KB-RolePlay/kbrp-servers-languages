@@ -13,5 +13,6 @@ DarkRP.RegisterSentences("kbrp_mayorvoting", "de", {
 	["electionsWillStartIn"] = "[Wahlen] Die Bürgermeisterwahl startet in ",
 	["mayorDie"] = "[Wahlen] Der Bürgermeister ist gerade gestorben!",
 	["cantBeManuallyMayor"] = "Du musst an der Bürgermeisterwahl teilnehmen um Bürgermeister zu werden!",
-	["noMayorToProtect"] = "Es gibt derzeit keinen Bürgermeister der geschützt werden muss!"
+	["noMayorToProtect"] = "Es gibt derzeit keinen Bürgermeister der geschützt werden muss!",
+	["npcName"] = "Herr Pichler"
 })
