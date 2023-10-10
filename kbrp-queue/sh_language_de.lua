@@ -7,5 +7,8 @@ DarkRP.RegisterSentences("kbrp_queue", "de", {
 	["fastPass"] = "FAST PASS",
 	["fastPassUrl"] = "https://kobralost-rp.de/store/checkout/27?",
 	["serverCurrentlyInMaintenance"] = "Der Server befindet sich derzeit in der Wartung!\nWeitere Informationen findest du unter https://kobralost-rp.de/discord !",
-	["serverFull"] = "Leider gibt es zu viele Eulen auf dem Server!\nBitte versuche es zu einem späteren Zeitpunkt erneut!\n\nDiscord: https://kobralost-rp.de/discord"
+	["serverFull"] = "Leider gibt es zu viele Eulen auf dem Server!\nBitte versuche es zu einem späteren Zeitpunkt erneut!\n\nDiscord: https://kobralost-rp.de/discord",
+	["adminPass"] = "ADMIN PASS",
+	["waiting"] = "WIRD SYNCHRONISIERT",
+	["waitingDesc"] = "Dein Charakter wird mit der Welt synchronisiert...",
 })
