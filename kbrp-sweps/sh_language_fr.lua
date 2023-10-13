@@ -210,4 +210,12 @@ DarkRP.RegisterSentences("kbrp_sweps", "fr", {
 	["complicityInCrimeOrOffense"] = "9.7 Complicité de crime ou délit",
 	["sequestration"] = "7.10 Séquéstration",
 	["takeService"] = "Prise de service",
+	["noFrequency"] = "Aucune fréquence",
+	["pressKeyToChoose"] = "Appuyez sur R pour en choisir une",
+	["radioOff"] = "Radio éteinte",
+	["radioKeyOn"] = "Appuyez sur clic gauche\npour l'allumer",
+	["yourRadio"] = "Votre radio",
+	["yourFrequency"] = "Votre fréquence",
+	["muteRadio"] = "Appuyez sur %s pour muter le \nmicrophone de la radio",
+	["cutSoundRadio"] = "Appuyez sur %s pour couper le \nson et le microphone de la radio",
 })
