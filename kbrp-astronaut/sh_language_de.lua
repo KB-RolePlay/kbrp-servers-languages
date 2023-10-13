@@ -16,5 +16,5 @@ DarkRP.RegisterSentences("kbrp_astronaut", "de", {
 	["landingInProgressDescription"] = "Wir freuen uns, dass du mit uns reist. Wir sind gleich an unserem Zielort.",
 	["waitBeforeTakeFlightAgain"] = "Warte einige Sekunden, bevor du wieder einen Flug antrittst!",
 	["pnjTooFar"] = "Du musst näher am NPC sein, um zu loszufliegen!",
-	["cantDoThisActionOnMoon"] = "Du kannst dies nicht auf dem Mond spawnen lassen!",
+	["cantDoThisActionOnMoon"] = "Du kannst dies nicht auf dem Mond spawnen!",
 })
