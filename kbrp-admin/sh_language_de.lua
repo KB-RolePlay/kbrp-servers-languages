@@ -63,10 +63,13 @@ DarkRP.RegisterSentences("kbrp_admin", "de", {
 	["uncuffPlayerContextMenuAction"] = "Befreien",
 	["playingTime"] = "Spielzeit: %s",
 	["newPlayer"] = "Neuer Spieler",
+	["adminFastPassModeration"] = "mit meinem Admin-Pass,",	
 	["ticketBeenDeleted"] = "Dein Ticket wurde erfolgreich gelöscht!",
 	["cantDoActionInAdminRoom"] = "Du kannst diese Handlung nicht im Admin-Raum durchführen!",
 	["cantDoActionInAdminMode"] = "Du kannst diese Handlung nicht im Admin-Modus durchführen!",
-	["onSwitchAdminModeMessage"] = "Ich trete meinen Dienst an",
+	["enableAdminModeMessage"] = "Ich nehme meinen Dienst auf, %s es gibt jetzt %s Moderator(en) im Admin-Modus und %s Ticket(s) in der Warteschlange",
+	["disableAdminModeMessage"] = "Ich beende jetzt nach %s in der Moderation meinen Dienst, es gibt nun %s Moderator(en) im Admin-Modus und %s Ticket(s) in der Warteschlange",
+	["disableQuickAdminModeMessage"] = "Ich verlasse meinen Dienst notfallmäßig nach %s in der Moderation, es gibt nun %s Moderator(en) im Admin-Modus und %s Ticket(s) in der Warteschlange",
 	["vehicleDeletedByAdminNotification"] = "Dein Fahrzeug wurde von einem Teammitglied entfernt",
 	["adminDeletedAllTheirVehicles"] = "%s hat gerade alle deine Fahrzeuge entfernt",
 	["messageCaracters"] = "Deine Nachricht darf maximal %s Zeichen enthalten",
@@ -76,5 +79,10 @@ DarkRP.RegisterSentences("kbrp_admin", "de", {
 	["adminMessageOf"] = "Administrative Nachricht von %s",
 	["caractersLimits"] = "Maximale Anzahl an Zeichen: %s/%s",
 	["sendMessage"] = "Nachricht senden",
-	["adminDeletedPlayerVehicles"] = "Du hast gerade die Fahrzeuge von %s entfernt"
+	["sendMessage"] = "Team alarmieren",
+	["needStaff"] = "[**%s**](https://dashboard.kobralost-rp.com/admin/1/players/%s/informations) hat gerade seinen Dienst beendet. \Der Server ist nun **nicht mehr geschützt**. \Ist ein Moderator **verfügbar**, um den Spielern zu helfen?",
+	["adminDeletedPlayerVehicles"] = "Du hast gerade die Fahrzeuge von %s entfernt",
+	["weNeedHelp"] = "Wir brauchen **Eure Hilfe** @here",
+	["cannotChangeJobOnAdmin"] = "Du kannst deinen Beruf nicht im Admin-Mode wechseln",
+	["endIn10MinutesModeration"] = "Ich beende meinen Dienst in %s Minuten, es wird dann noch %s Moderator(en) im Dienst geben."
 })

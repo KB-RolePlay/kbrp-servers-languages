@@ -205,5 +205,17 @@ DarkRP.RegisterSentences("kbrp_sweps", "de", {
 	["jailLogsCategory"] = "Gefängnis",
 	["finesLogsCategory"] = "Bußgelder",
 	["stoleLogsCategory"] = "Diebstähle",
-	["batteringRamLogsCategory"] = "Rammbock"
+	["batteringRamLogsCategory"] = "Rammbock",
+	["dictatorship"] = "9.6 Diktatur",
+	["complicityInCrimeOrOffense"] = "9.7 Beihilfe zu einem Verbrechen",
+	["sequestration"] = "7.10 Séquéstration",
+	["takeService"] = "Dienst antreten",
+	["noFrequency"] = "Keine Frequenz",
+	["pressKeyToChoose"] = "Drücke R, um eine auszuwählen",
+	["radioOff"] = "Radio ausgeschaltet",
+	["radioKeyOn"] = "Drücke Linksklick zum Einschalten",
+	["yourRadio"] = "Dein Funkgerät",
+	["yourFrequency"] = "Deine Frequenz",
+	["muteRadio"] = "Drücke %s, um das Mikrofon des Funkgeräts umzuschalten",
+	["cutSoundRadio"] = "Drücke %s, um das Funkgerät und das Mikrofon stumm zu schalten",	
 })
