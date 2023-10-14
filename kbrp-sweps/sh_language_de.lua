@@ -207,7 +207,7 @@ DarkRP.RegisterSentences("kbrp_sweps", "de", {
 	["stoleLogsCategory"] = "Diebstähle",
 	["batteringRamLogsCategory"] = "Rammbock",
 	["dictatorship"] = "9.6 Diktatur",
-	["complicityInCrimeOrOffense"] = "9.7 Beihilfe zu einem Verbrechen,
+	["complicityInCrimeOrOffense"] = "9.7 Beihilfe zu einem Verbrechen",
 	["sequestration"] = "7.10 Séquéstration",
 	["takeService"] = "Dienst antreten",
 	["noFrequency"] = "Keine Frequenz",
