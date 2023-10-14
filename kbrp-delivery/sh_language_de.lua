@@ -38,7 +38,7 @@ DarkRP.RegisterSentences("kbrp_delivery", "de", {
 	["noService"] = "Du bist nicht im Dienst!",
 	["needToTakeService"] = "Um loszulegen musst du deinen Dienst antreten!",
 	["takeVehicleToStartService"] = "Hole deinen Dienstwagen am markierten Punkt ab",
-	["cancelMission"] = "Bestellung abbrechen.",
+	["cancelMission"] = "Bestellung abbrechen",
 	["vehicleExited"] = "Du hast dein Fahrzeug ausgeparkt!",
 	["vehicleReturned"] = "Du hast dein Fahrzeug eingeparkt!",
 	["serviceStoppedBecauseDie"] = "Deine Bestellung wurde abgebrochen, da du gestorben bist.",
