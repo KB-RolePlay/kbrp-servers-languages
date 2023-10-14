@@ -1,5 +1,7 @@
 DarkRP.RegisterSentences("kbrp_truckjob", "de", {
-    ["truckJobNpcTitle"] = "LKW Fahrer",
+        ["truckJobNpcTitle"] = "LKW Fahrer",
+        ["npcName"] = "Fritz Frachtfuchs",
+        ["npcDesc"] = "Erhalte deinen LKW",
 	["npcUseCooldown"] = "Warte einen Moment!",
 	["returnVehicleButton"] = "Fahrzeug einparken",
 	["exitVehicleButton"] = "Fahrzeug ausparken",
