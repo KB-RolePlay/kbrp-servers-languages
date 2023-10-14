@@ -36,5 +36,6 @@ DarkRP.RegisterSentences("kbrp_towtruck", "fr", {
 	["vehicleInCarDealer"] = "Votre véhicule est désormais dans votre garage",
 	["vehicleDestroyed"] = "Votre véhicule a été supprimé car il a explosé",
 	["npcDesc"] = "Véhicule de dépanneur",
+	["npcTitle"] = "Dépanneur",
 	["vehicleDestroyedCantTow"] = "Le véhicule est détruit, il ne peut pas être remorqué"
 })
