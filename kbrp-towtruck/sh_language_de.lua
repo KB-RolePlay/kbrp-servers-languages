@@ -2,7 +2,7 @@ DarkRP.RegisterSentences("kbrp_towtruck", "de", {
 ["defaultNPCName"] = "Robert Wiggins",
 ["getVehicleButton"] = "Abschleppwagen ausparken",
 ["returnVehicleButton"] = "Abschleppwagen einparken",
-["toStartInstructionTitle"] = "Um zu beginnen",
+["toStartInstructionTitle"] = "Dienst antreten",
 ["toStartInstructionDescription"] = "Hole deinen Abschleppwagen am markierten Punkt ab",
 ["wrenchInstructionTitle"] = "Schraubenschlüssel",
 ["wrenchInstructionDescription"] = "Abschleppen oder Reparieren eines Fahrzeugs mit Rechts- und Linksklick",
