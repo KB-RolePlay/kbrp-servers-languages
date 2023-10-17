@@ -2,7 +2,7 @@ DarkRP.RegisterSentences("kbrp_bunker", "de", {
     ["notBunkerOwnerError"] = "Du bist nicht der Besitzer von diesem Bunker!",
       ["boughtBunkerNPCTitle"] = "Jordy Bakers",
       ["weebBunker"] = "Weed Bunker",
-      ["weedBunkerDescription"] = "Passives Einkommen durch Weed\nBunker steht bei dem gelben Hangar",
+      ["weedBunkerDescription"] = "Passives Einkommen durch Weed\nBunker steht am gelben Hangar",
       ["bunkerSecurityNPC"] = "Security",
       ["bunkerStolenNotification"] = "Diebe haben gerade deine ganze Produktion gestohlen, sichere dich ab jetzt lieber ab!",
       ["weebBunkerTank"] = "Tank",
