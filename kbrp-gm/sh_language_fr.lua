@@ -267,5 +267,11 @@ DarkRP.RegisterSentences("kbrp_gm", "fr", {
     ["secondSingular"] = "seconde",
     ["secondPlural"] = "secondes",
     ["and"] = "et",
-    ["sendMessage"] = "Message"
+    ["sendMessage"] = "Message",
+    ["construction"] = "Construction",
+    ["roleplayProps"] = "Props Roleplay",
+    ["basic"] = "Basique",
+    ["comicProps"] = "Props comique",
+    ["Plastic"] = "Plastique",
+    ["cantSpawnProp"] = "Vous ne pouvez pas faire spawn ce props !",
 })
