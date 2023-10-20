@@ -6,7 +6,7 @@ DarkRP.RegisterSentences("kbrp_position", "de", {
 	["townHall"] = "Rathaus",
 	["undergroundParking"] = "Unterirdischer Parkplatz",
 	["townHallParking"] = "Rathaus Parkplatz",
-	["bank"] = "Bank",
+	["bank"] = "Kobralost - Bank",
 	["policeStation"] = "Polizeiwache",
 	["tacoBell"] = "Taco Bell",
 	["tacobellApartments1"] = "Wohnheim Taco Bell #1",
