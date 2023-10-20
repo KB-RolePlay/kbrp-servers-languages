@@ -210,6 +210,7 @@ DarkRP.RegisterSentences("kbrp_sweps", "de", {
 	["complicityInCrimeOrOffense"] = "9.7 Beihilfe zu einem Verbrechen",
 	["sequestration"] = "7.10 Freiheitsberaubung",
 	["takeService"] = "Dienst angetreten",
+	["endService"] = "Dienst beenden",
 	["noFrequency"] = "Keine Frequenz",
 	["pressKeyToChoose"] = "Drücke R, um eine auszuwählen",
 	["radioOff"] = "Radio ausgeschaltet",
