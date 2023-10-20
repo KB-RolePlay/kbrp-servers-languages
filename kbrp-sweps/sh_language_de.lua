@@ -210,6 +210,7 @@ DarkRP.RegisterSentences("kbrp_sweps", "de", {
 	["complicityInCrimeOrOffense"] = "9.7 Beihilfe zu einem Verbrechen",
 	["sequestration"] = "7.10 Freiheitsberaubung",
 	["takeService"] = "Dienst angetreten",
+	["endService"] = "Dienst beenden",
 	["noFrequency"] = "Keine Frequenz",
 	["pressKeyToChoose"] = "Drücke R, um eine auszuwählen",
 	["radioOff"] = "Radio ausgeschaltet",
@@ -218,4 +219,5 @@ DarkRP.RegisterSentences("kbrp_sweps", "de", {
 	["yourFrequency"] = "Deine Frequenz",
 	["muteRadio"] = "Drücke %s, um das Mikrofon umzuschalten",
 	["cutSoundRadio"] = "Drücke %s, um den Ton umzuschalten",	
+	["fireFromJob"] = "Du wurdest gerade aufgrund deiner Haftstrafe aus deinem Job entlassen!",	
 })
