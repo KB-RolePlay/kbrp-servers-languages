@@ -82,7 +82,7 @@ DarkRP.RegisterSentences("kbrp_admin", "de", {
 	["sendMessage"] = "Team alarmieren",
 	["needStaff"] = "[**%s**](https://dashboard.kobralost-rp.com/admin/1/players/%s/informations) hat gerade seinen Dienst beendet. \nDer Server ist nun **nicht mehr geschützt**. \nIst ein Moderator **verfügbar**, um den Spielern zu helfen?",
 	["adminDeletedPlayerVehicles"] = "Du hast gerade die Fahrzeuge von %s entfernt",
-	["weNeedHelp"] = "Wir brauchen **Eure Hilfe** @here",
+	["weNeedHelp"] = "Wir brauchen **Eure Hilfe**",
 	["cannotChangeJobOnAdmin"] = "Du kannst deinen Beruf nicht im Admin-Mode wechseln",
 	["endIn10MinutesModeration"] = "Ich beende meinen Dienst in %s Minuten, es wird dann noch %s Moderator(en) im Dienst geben."
 })
