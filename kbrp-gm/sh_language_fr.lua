@@ -276,4 +276,5 @@ DarkRP.RegisterSentences("kbrp_gm", "fr", {
     ["cantSpawnProp"] = "Vous ne pouvez pas faire spawn ce props",
     ["nothingFound"] = "Je n'ai rien trouvé pour votre recherche",
     ["favoriteJob"] = "Metier favoris",
+    ["confirm"] = "Confirmer",
 })
