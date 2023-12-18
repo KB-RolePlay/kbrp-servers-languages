@@ -220,4 +220,5 @@ DarkRP.RegisterSentences("kbrp_sweps", "fr", {
 	["muteRadio"] = "Appuyez sur %s pour muter le \nmicrophone de la radio",
 	["cutSoundRadio"] = "Appuyez sur %s pour couper le \nson et le microphone de la radio",
 	["fireFromJob"] = "Vous venez d'être démis de vos fonctions suite à votre peine d'emprisonnement",
+	["noSnowBall"] = "Vous ne possédez plus de boules de neige",
 })
