@@ -1,5 +1,5 @@
 DarkRP.RegisterSentences("kbrp_charactercreator", "fr", {
-    ["editYourCharacterTitle"] = "Modifier votre personnage",
+       ["editYourCharacterTitle"] = "Modifier votre personnage",
 	["enterYourName"] = "Veuillez indiquer votre nom",
 	["chooseYourAppearance"] = "Veuillez choisir votre apparence",
 	["enterYourNamePlaceholder"] = "Exemple : Fabrice Lamare",
