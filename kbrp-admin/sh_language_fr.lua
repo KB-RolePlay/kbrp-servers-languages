@@ -57,6 +57,7 @@ DarkRP.RegisterSentences("kbrp_admin", "fr", {
 	["cantTiesInAdminRoom"] = "Vous ne pouvez pas attacher en salle admin !",
 	["cantTiesPlayerInAdminRoom"] = "Vous ne pouvez pas attacher quelqu'un qui est en salle admin !",
 	["closeTicketReward"] = "Vous venez de recevoir %s pour avoir fermé un ticket !",
+	["closeTicketRewardAll"] = "Vous venez de recevoir %s et %s KBCoins pour avoir fermé un ticket !",
 	["cantCreateTicketInAdminRoom"] = "Vous ne pouvez pas créer de tickets en mode admin !",
 	["ticketSentNotification"] = "Votre ticket a bien été envoyé ! Continuez à jouer roleplay un staff arrive très bientôt !",
 	["ratingRegistredNotification"] = "Votre note a bien été prise en compte !",
@@ -82,7 +83,7 @@ DarkRP.RegisterSentences("kbrp_admin", "fr", {
 	["sendMessage"] = "Alerte modération",
 	["needStaff"] = "[**%s**](https://dashboard.kobralost-rp.com/admin/1/players/%s/informations) viens de prendre sa fin de service. \n Le serveur est maintenant **sans défense**. \n Un modérateur **serait-il disponible** pour aider les joueurs ?",
 	["adminDeletedPlayerVehicles"] = "Vous venez de supprimer les véhicules de %s",
-	["weNeedHelp"] = "Nous avons **besoin de votre aide camarade** @here",
+	["weNeedHelp"] = "Nous avons **besoin de votre aide camarade**",
 	["cannotChangeJobOnAdmin"] = "Vous ne pouvez pas changer de metier en admin",
 	["endIn10MinutesModeration"] = "Je prend ma fin de service dans %s minutes, il y aura %s modérateur(s) en mode admin",
 })
