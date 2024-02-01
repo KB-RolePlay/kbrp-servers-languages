@@ -84,4 +84,5 @@ DarkRP.RegisterSentences("kbrp_position", "fr", {
 	["mine"] = "Mine",
 	["petrolStation"] = "Place pétrolière",
 	["paradise"] = "Kobra Paradise",
+	["fountain"] = "Fontaine de Kobralost"
 })
