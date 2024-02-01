@@ -73,5 +73,9 @@ DarkRP.RegisterSentences("kbrp_casier", "fr", {
 	["automaticBan"] = "Bannissement automatique lié aux points",
 	["automaticBanNotify"] = "Vous venez de recevoir un avertissement qui à entrainé automatiquement votre bannissement.",
 	["dateFormat"] = "%d/%m/%Y",
-	["bannedByAdministration"] = "Banni par l'administration"
+	["bannedByAdministration"] = "Banni par l'administration",
+    ["dashboardPunishmentPrefix"] = "Sanction réalisé à distance",
+    ["bannedByDashboardAdminChatText"] = "%s vient d'être banni à distance pour le motif %s",
+    ["bannedByDashboardNotification"] = "Vous venez d'être banni à distance par %s pour le motif %s. Pour plus d'informations, rendez-vous dans votre casier administratif.",
+    ["warnedByDashboardNotification"] = "Vous venez d'être averti à distance par %s pour le motif %s. Pour plus d'informations, rendez-vous dans votre casier administratif.",
 })
