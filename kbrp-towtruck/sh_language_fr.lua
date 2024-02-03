@@ -1,5 +1,5 @@
 DarkRP.RegisterSentences("kbrp_towtruck", "fr", {
-    	["defaultNPCName"] = "Robert Wiggins",
+    ["defaultNPCName"] = "Robert Wiggins",
 	["getVehicleButton"] = "Récupérer ma dépanneuse",
 	["returnVehicleButton"] = "Ranger ma dépanneuse",
 	["toStartInstructionTitle"] = "Pour commencer",
@@ -21,15 +21,21 @@ DarkRP.RegisterSentences("kbrp_towtruck", "fr", {
 	["cantTowOwnTruck"] = "Vous ne pouvez pas remorquer votre propre dépanneuse",
 	["truckTooFar"] = "Votre dépanneuse est trop loin",
 	["blacklistedVehicle"] = "Ce véhicule ne peut pas être remorqué, réparez le directement sur place si il est endommagé",
-	["alreadyTowedVehicle"] = "Vous remorquez déjà un vehicule",
+	["alreadyTowedVehicle"] = "Vous remorquez déjà un véhicule",
 	["cantTowOwnVehicle"] = "Vous ne pouvez pas remorquer votre propre véhicule",
 	["vehicleAlreadyInPound"] = "Ce véhicule est déjà en fourrière",
 	["vehicleTowCooldown"] = "Ce véhicule ne peut pas être remorqué avant %s",
 	["vehicleTowed"] = "Vous venez de remorquer un véhicule",
 	["npcTooFar"] = "Vous êtes trop loin du PNJ",
 	["noRepairToDo"] = "Il n'y a aucune réparation à faire sur ce véhicule",
-	["vehicleDestroyedCantRepair"] = "Le vehicule est detruit, vous devez le remorquer",
+	["vehicleDestroyedCantRepair"] = "Le véhicule est detruit, vous ne pouvez pas le réparer",
 	["vehicleTooFar"] = "Vous êtes trop loin du véhicule",
-	["vehicleRepaired"] = "Le vehicule est réparé",
-	["vehicleRepairStart"] = "Vous commencez à réparer le vehicule"
+	["vehicleRepaired"] = "Le véhicule est réparé",
+	["vehicleRepairStart"] = "Vous commencez à réparer le véhicule",
+	["cardealerAction"] = "Frais de fourrière",
+	["vehicleInCarDealer"] = "Votre véhicule est désormais dans votre garage",
+	["vehicleDestroyed"] = "Votre véhicule a été supprimé car il a explosé",
+	["npcDesc"] = "Véhicule de dépanneur",
+	["npcTitle"] = "Dépanneur",
+	["vehicleDestroyedCantTow"] = "Le véhicule est détruit, il ne peut pas être remorqué"
 })

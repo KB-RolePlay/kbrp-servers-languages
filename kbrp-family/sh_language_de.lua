@@ -89,4 +89,6 @@ DarkRP.RegisterSentences("kbrp_family", "de", {
 	["needSelectFamilyColor"] = "Du musst eine Farbe auswählen!",
 	["needSelectWeapon"] = "Du musst eine Waffe auswählen!",
 	["vehiclesListTitle"] = "Fahrzeuge",
+	["familyBlacklistedMessage"] = "Diese Familie wurde auf die Blacklist gesetzt, du kannst ihr nicht beitreten",
+	["familyBlacklistedOwnerMessage"] = "Da deine Familie auf der Blacklist steht, kannst nur du ihr beitreten"
 })

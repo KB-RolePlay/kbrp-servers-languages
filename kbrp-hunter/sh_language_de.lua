@@ -1,9 +1,9 @@
 DarkRP.RegisterSentences("kbrp_hunter", "de", {
     ["killAnimal"] = "Töte: %s!",
-	["goat"] = "x Ziegen",
-	["monkey"] = "x Affen",
-	["deer"] = "x Rehe",
-	["rhinoceros"] = "x Nashörner",
+	["goat"] = "Ziege",
+	["monkey"] = "Affe",
+	["deer"] = "Reh",
+	["rhinoceros"] = "Nashorn",
 	["leaveService"] = "Dienst verlassen",
 	["takeService"] = "Dienst antreten",
 	["takeMission"] = "Auftrag annehmen",
@@ -29,5 +29,8 @@ DarkRP.RegisterSentences("kbrp_hunter", "de", {
 	["noAvailableZones"] = "Es sind keine Zonen verfügbar, bitte versuche es gleich nochmal!",
 	["missionTaken"] = "Du hast einen Auftrag angenommen!",
 	["needToBeInServiceToCancelMission"] = "Du musst im Dienst sein um einen Auftrag abzubrechen!",
-	["missionCanceled"] = "Du hast deinen Auftrag abgebrochen!"
+	["missionCanceled"] = "Du hast deinen Auftrag abgebrochen!",
+	["menuInServiceTitle"] = "Du bist derzeit im Dienst",
+	["menuOutServerTitle"] = "Du bist derzeit außer Dienst",
+	["goToPoint"] = "Gehe zum angegebenen Punkt, um dort %s"
 })

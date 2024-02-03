@@ -1,0 +1,20 @@
+DarkRP.RegisterSentences("kbrp_equipment", "fr", {
+    ["takeEquipmentNotification"] = "Vous venez de prendre votre tenue",
+	["takeOffEquipmentNotification"] = "Vous venez de déposer votre tenue",
+	["frameTitle"] = "Coffre du véhicule",
+	["shieldSpeciality"] = "Bouclier",
+	["leftClickInstruction"] = "CLIC GAUCHE",
+	["leftClickInstructionDescription"] = "Placer le périmètre",
+	["rightClickInstruction"] = "CLIC DROIT",
+	["rightClickInstructionDescription"] = "Annuler le périmètre",
+	["shieldHealth"] = "Vie du bouclier",
+	["shieldHealthDescription"] = "Indique l'état de votre bouclier antibalistique",
+	["undoConstructionName"] = "Périmètre de sécurité",
+	["tooMuchPlayersInSameSpecialityNotification"] = "Le nombre maximum dans cette spécialité à été atteinte",
+	["assaultSpeciality"] = "Assaut",
+	["shotgunSpeciality"] = "Fusil à pompe",
+	["sniperSpeciality"] = "Sniper",
+	["welcomeSwatTitl"] = "BIENVENUE DANS LE RAID",
+	["welcomeSwatDescription"] = "Choisissez votre spécialité",
+	["chooseSpecialityButton"] = "Choisir"
+})

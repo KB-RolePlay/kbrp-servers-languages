@@ -4,5 +4,8 @@ DarkRP.RegisterSentences("kbrp_police_npc", "de", {
 	["invalidJob"] = "Du hast nicht den richtigen Beruf um auf den NSC zugreifen zu können.",
 	["supplyInProgress"] = "Du rüstest dich aus...",
 	["npcTooFar"] = "Du bist zu weit vom NPC entfernt!",
-	["equipmentReceived"] = "Du hast gerade deine Ausrüstung erhalten!"
+	["equipmentReceived"] = "Du hast gerade deine Ausrüstung erhalten!",
+	["npcName"] = "Hank Connor",
+	["npcDesc"] = "Polizeiausrüstung",
+	["frameDesc"] = "Polizeiausrüstung",
 })

@@ -15,9 +15,11 @@ DarkRP.RegisterSentences("kbrp_casier", "de", {
 	["soundBoardTicketReason"] = "SoundBoard",
 	["spamTicketReason"] = "Spam",
 	["insultsTicketReason"] = "Beleidigung",
+	["repeatInsultsTicketReason"] = "Wiederholte Beleidigung",
 	["seriousInsultsTicketReason"] = "Schwere Beleidigung",
 	["trollTicketReason"] = "Trolling",
 	["denigrationTicketReason"] = "Herabwürdigung",
+	["formalBan"] = "Protokollierter Ban",
 	["otherTicketReason"] = "Andere",
 	["litigationTicketReason"] = "Streit",
 	["recurrenceCheatTicketReason"] = "Wiederholtes Cheating",
@@ -28,7 +30,6 @@ DarkRP.RegisterSentences("kbrp_casier", "de", {
 	["lowPunishmentGravity"] = "Niedrig",
 	["mediumPunishmentGravity"] = "Mittel",
 	["highPunishmentGravity"] = "Hoch",
-	["lowPunishmentGravity"] = "Durchschnitt",
 	["viewPunishmentFrameTitle"] = "Sanktion #%s",
 	["viewTemporaryPunishmentFrameTitle"] = "vorübergehende Sanktion",
 	["permanent"] = "PERMANENT",
@@ -69,5 +70,7 @@ DarkRP.RegisterSentences("kbrp_casier", "de", {
 	["steamIdNotFound"] = "Die gesuchte SteamID existiert nicht!",
 	["points"] = "Punkte",
 	["punishments"] = "Sanktionen",
+	["automaticBan"] = "Bannissement automatique lié aux points",
+	["automaticBanNotify"] = "Vous venez de recevoir un avertissement qui à entrainé automatiquement votre bannissement.",
 	["dateFormat"] = "%d/%m/%Y"
 })

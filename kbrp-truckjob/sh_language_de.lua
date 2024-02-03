@@ -1,15 +1,17 @@
 DarkRP.RegisterSentences("kbrp_truckjob", "de", {
-    ["truckJobNpcTitle"] = "Fahrer/Lieferant",
+        ["truckJobNpcTitle"] = "LKW Fahrer",
+        ["npcName"] = "Fritz Frachtfuchs",
+        ["npcDesc"] = "Erhalte deinen LKW",
 	["npcUseCooldown"] = "Warte einen Moment!",
 	["returnVehicleButton"] = "Fahrzeug einparken",
 	["exitVehicleButton"] = "Fahrzeug ausparken",
-	["startInstructionTitle"] = "Fahrzeug",
-	["startInstructionDescriptionTakeVehicle"] = "Hole dein Fahrzeug am markierten Punkt ab!",
-	["startInstructionDescriptionTakeService"] = "Starte deinen Dienst",
-	["gotoLoadingPointInstruction"] = "Begebe dich so schnell wie möglich zum Ladepunkt!",
+	["startInstructionTitle"] = "Du bist nicht im Dienst!",
+	["startInstructionDescriptionTakeVehicle"] = "Hole deinen Dienstwagen am markierten Punkt ab!",
+	["startInstructionDescriptionTakeService"] = "Um loszulegen musst du deinen Dienst antreten!",
+	["gotoLoadingPointInstruction"] = "Begebe dich zum markierten Ladepunkt!",
 	["takeTrailerPointInstruction"] = "Hole deinen Anhänger ab, um mit der Lieferung zu beginnen!",
 	["enterInVehicleInstruction"] = "Steige in dein Fahrzeug, um deine Lieferungen fortzusetzen.",
-	["inDeliveryInstructionTitle"] = "Du befindest dich in einer Lieferung",
+	["inDeliveryInstructionTitle"] = "Du bist im Dienst!",
 	["leaveServiceButton"] = "Dienst verlassen",
 	["takeServiceButton"] = "Dienst antreten",
 	["actionUnavailable"] = "Diese Aktion ist derzeit nicht verfügbar!",
@@ -18,5 +20,8 @@ DarkRP.RegisterSentences("kbrp_truckjob", "de", {
 	["tooFarLoadPoint"] = "Du bist zu weit vom Ladepunkt entfernt!",
 	["truckLoaded"] = "Du hast deinen LKW erfolgreich beladen.",
 	["tooFarSellPoint"] = "Du bist zu weit vom Verkaufspunkt entfernt!",
-	["trailerDelivered"] = "Du hast deinen Anhänger erfolgreich abgeliefert und erhälst "
+	["trailerDelivered"] = "Du hast deinen Anhänger erfolgreich abgeliefert und erhälst ",
+	["inServiceInstructionTitle"] = "Du bist im Dienst",
+	["noServiceInstructionTitle"] = "Du bist außer Dienst",
+	["unavailableButton"] = "Nicht verfügbar"
 })

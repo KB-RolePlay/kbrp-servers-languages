@@ -4,5 +4,8 @@ DarkRP.RegisterSentences("kbrp_police_npc", "fr", {
 	["invalidJob"] = "Vous n'avez pas le métier nécessaire pour accéder à ce PNJ !",
 	["supplyInProgress"] = "Ravitaillement en cours...",
 	["npcTooFar"] = "Vous êtes trop loin du NPC !",
-	["equipmentReceived"] = "Vous venez de recevoir votre équipement !"
+	["equipmentReceived"] = "Vous venez de recevoir votre équipement !",
+	["npcName"] = "Hank Connor",
+	["npcDesc"] = "Equipement de police",
+	["frameDesc"] = "Equipement de police",
 })

@@ -1,5 +1,5 @@
 DarkRP.RegisterSentences("kbrp_casier", "fr", {
-    	["freekillTicketReason"] = "Freekill",
+    ["freekillTicketReason"] = "Freekill",
 	["metagamingTicketReason"] = "Métagaming",
 	["noFearRPTicketReason"] = "NoFearRP",
 	["nlrTicketReason"] = "NLR",
@@ -15,9 +15,11 @@ DarkRP.RegisterSentences("kbrp_casier", "fr", {
 	["soundBoardTicketReason"] = "SoundBoard",
 	["spamTicketReason"] = "Spam",
 	["insultsTicketReason"] = "Insultes",
+	["repeatInsultsTicketReason"] = "Insultes Récidive",
 	["seriousInsultsTicketReason"] = "Insultes Lourde",
 	["trollTicketReason"] = "Troll",
 	["denigrationTicketReason"] = "Dénigrement",
+	["formalBan"] = "Ban Protocolaire",
 	["otherTicketReason"] = "Autre",
 	["litigationTicketReason"] = "Litige",
 	["recurrenceCheatTicketReason"] = "Cheat récidive",
@@ -68,5 +70,8 @@ DarkRP.RegisterSentences("kbrp_casier", "fr", {
 	["steamIdNotFound"] = "Le SteamID que vous recherchez n'éxiste pas !",
 	["points"] = "points",
 	["punishments"] = "sanctions",
-	["dateFormat"] = "%d/%m/%Y"
+	["automaticBan"] = "Bannissement automatique lié aux points",
+	["automaticBanNotify"] = "Vous venez de recevoir un avertissement qui à entrainé automatiquement votre bannissement.",
+	["dateFormat"] = "%d/%m/%Y",
+	["bannedByAdministration"] = "Banni par l'administration"
 })

@@ -18,7 +18,7 @@ DarkRP.RegisterSentences("kbrp_seller", "fr", {
 	["entityPrice"] = "Prix : %s",
 	["buyButton"] = "Acheter",
 	["cantAfford"] = "Vous n'avez pas suffisament d'argent pour acheter cela !",
-	["errorOccured"] = "Une erreur c'est produite, veuillez contacter un administrateur !",
+	["errorOccured"] = "Une erreur s'est produite, veuillez contacter un administrateur !",
 	["invalidItem"] = "Cet item n'est pas vendu par le pnj, ne tente pas d'exploit !",
 	["npcTooFar"] = "Vous devez être plus proche du NPC !",
 	["itemBought"] = "Vous venez de payer un(e) %s pour %s"
