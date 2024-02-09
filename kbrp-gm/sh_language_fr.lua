@@ -112,7 +112,7 @@ DarkRP.RegisterSentences("kbrp_gm", "fr", {
     ["stopSound"] = "Stopsounds",
     ["firstPerson"] = "1ère personne",
     ["thirdPerson"] = "3ème personne",
-    ["callAdmin"] = "Appeller un Admin",
+    ["callAdmin"] = "Appeler un Admin",
     ["adminMode"] = "Mode Admin",
     ["playerMode"] = "Mode Joueur",
     ["adminLocker"] = "Casier Administratif",
