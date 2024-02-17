@@ -99,6 +99,7 @@ DarkRP.RegisterSentences("kbrp_sweps", "fr", {
 	["cantChangeJobInJail"] = "Vous ne pouvez pas changer de métier en prison",
 	["cantBuyEntityInJail"] = "Vous ne pouvez pas acheter une entité en prison",
 	["playerTooFar"] = "Cette personne est trop loin",
+	["fineLogBank"] = "Participation a la lotterie",
 	["weaponConfiscatedNotification"] = "Vous venez de recevoir %s pour avoir confisquer un outil illégal",
 	["weaponConfiscatedTargetNotification"] = "Vous venez de vous faire confisquer un outil illégal par %s",
 	["playerSealPlayerMoneyNotification"] = "Vous venez de voler %s à %s",
@@ -109,6 +110,7 @@ DarkRP.RegisterSentences("kbrp_sweps", "fr", {
 	["finePlayer"] = "Vous venez de mettre une amende à %s",
 	["noFineToPay"] = "Vous n'avez aucune amende a payer",
 	["finePaid"] = "Vous venez de payer votre amende",
+	["walletAndBankPaid"] = "Vous avez payé %s de votre poche et vous avez été débité de %s dans votre bancaire pour votre amende",
 	["playerPaidFine"] = "%s vient de payer son amende, vous venez de recevoir %s",
 	["cantPaidFine"] = "Vous n'avez pas assez d'argent pour payer votre amende",
 	["playerCantPaidFIne"] = "%s n'a pas assez d'argent pour payer son amende de %s",
@@ -220,4 +222,5 @@ DarkRP.RegisterSentences("kbrp_sweps", "fr", {
 	["muteRadio"] = "Appuyez sur %s pour muter le \nmicrophone de la radio",
 	["cutSoundRadio"] = "Appuyez sur %s pour couper le \nson et le microphone de la radio",
 	["fireFromJob"] = "Vous venez d'être démis de vos fonctions suite à votre peine d'emprisonnement",
+	["noSnowBall"] = "Vous ne possédez plus de boules de neige, appuyez sur clic droit en visant le sol",
 })
