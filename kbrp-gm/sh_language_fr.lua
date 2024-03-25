@@ -112,7 +112,7 @@ DarkRP.RegisterSentences("kbrp_gm", "fr", {
     ["stopSound"] = "Stopsounds",
     ["firstPerson"] = "1ère personne",
     ["thirdPerson"] = "3ème personne",
-    ["callAdmin"] = "Appeler un Admin",
+    ["callAdmin"] = "Appeller un Admin",
     ["adminMode"] = "Mode Admin",
     ["playerMode"] = "Mode Joueur",
     ["adminLocker"] = "Casier Administratif",
@@ -276,4 +276,9 @@ DarkRP.RegisterSentences("kbrp_gm", "fr", {
     ["cantSpawnProp"] = "Vous ne pouvez pas faire spawn ce props",
     ["nothingFound"] = "Je n'ai rien trouvé pour votre recherche",
     ["favoriteJob"] = "Metier favoris",
+    ["confirm"] = "Confirmer",
+    ["dayIn"] = "Jour %s dans",
+    ["openedCase"] = "Total de caisses ouvertes sur le serveur",
+    ["christmasCalendar"] = "Calendrier de Noël",
+    ["maxMoneyEntity"] = "Vous ne pouvez pas jeter davantage d'argent"
 })
